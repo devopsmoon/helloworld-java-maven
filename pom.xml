@@ -42,7 +42,7 @@
     <repository>
         <id>deployment</id>
         <name>release softx</name>
-        <url>hhttp://13.127.214.51:8081/repository/MPH_Release/</url>
+        <url>http://13.127.214.51:8081/repository/MPH_Release/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
